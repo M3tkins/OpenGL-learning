@@ -1,0 +1,22 @@
+
+# CMake generated files
+/build/
+/out/
+/cmake-build-*/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compiled files
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# OS
+Thumbs.db
+.DS_Store
